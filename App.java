@@ -1,4 +1,4 @@
-package vallegrande.edu.pe;
+package vallegrande.edu.pe.view;
 
 import vallegrande.edu.pe.controller.ContactController;
 import vallegrande.edu.pe.model.InMemoryContactRepository;
